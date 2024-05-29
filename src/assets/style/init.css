@@ -1,0 +1,18 @@
+/* 
+ 淡灰色 b6b3ba 作为 背景色 或 大面积色
+ 桃红色 FF98B5 | 金黄色 EAA813 作为强调区域 按钮图标等重要info的
+ 湖蓝色 92D7CD 和 天蓝色 57D7FE 为层次过度色
+ 淡紫色 D4BCE1 和 粉红色 FE9E9F 为装饰小面积点缀
+ */
+:root {
+  --primary-color: #b6b3ba;
+  /* 过度色 */
+  --excessive--light-color: #92d7cd;
+  --excessive-color: #57d7fe;
+  /* 强调色 */
+  --emphasize-color: #ff98b5;
+  --emphasize-gold-color: #eaa813;
+  /* 装饰 */
+  --decorate-color: #d4bce1;
+  --decorate-warm-color: #fe9e9f;
+}
